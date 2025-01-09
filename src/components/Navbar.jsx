@@ -1,5 +1,5 @@
 import React, { useEffect, useRef, useState } from 'react';
-import Button from './button';
+import Button from './Button';
 import { TiLocationArrow } from 'react-icons/ti';
 import { HiMenu, HiX } from 'react-icons/hi'; // Icons for the hamburger menu
 import { useWindowScroll } from 'react-use';
